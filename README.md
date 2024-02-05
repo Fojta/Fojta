@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at <a href="vspj.cz">VŠPJ</a><br>👯 I’m looking for work and exoeriences in software development<br>🌱 I’m currently learning Android studio<br>
+🔭 I’m currently studying at <a href="vspj.cz">VŠPJ</a><br>👯 I’m looking for work and experiences in software development<br>🌱 I’m currently learning Android studio<br>
 
 
 # 🏫 Schools:
