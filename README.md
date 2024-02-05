@@ -18,7 +18,7 @@ Field of study:<br>
 🎨 3D graphics and animation<br>
 💻 IoT and Industry 4.0 applications<br><br>
 
-# 🗒️ Work:
+# 🗒️ Previous jobs:
 QA AUTOMATION ENGINEER - CASENET S.R.O. (1/2 Year)<br>
  Design and implementation of appropriate features for QA department testing application.<br>
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br><br>
