@@ -14,7 +14,7 @@ INFORMAČNÍ TECHNOLOGIE - <a href="https://spssou-pe.cz">Střední průmyslová
 EQF-4<br>
 Field of study:<br>
 🛠️ Network technologies<br>
-🖥️ Programming basics, creating web and database applications (Pascal, Java, PLC, HTML)<br>
+🖥️ Programming basics, creating web and database applications (Pascal, Java, PLC, HTML, MySQL, PHP)<br>
 🎨 3D graphics and animation<br>
 💻 IoT and Industry 4.0 applications<br><br>
 
